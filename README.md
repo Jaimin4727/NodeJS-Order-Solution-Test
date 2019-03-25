@@ -135,7 +135,7 @@ setup your database credentials into .env file
 
 ## npm 
 
-run following command into root of the project in command prompt (e.g D:\DemoProject> )
+run following command into root of the project in command prompt (e.g D:\NodeJS-Order-Solution-Test> )
 
 1) npm install
 
